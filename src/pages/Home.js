@@ -10,7 +10,7 @@ function Home() {
             <div className="w-screen bg-[#FC8F00]">
                 <Navbar />
             </div>
-            <img src="../../build/images/banner.png" alt="Banner" />
+            <img src="../../public/images/banner.png" alt="Banner" />
             <div className="w-screen bg-[#000]">OKVIP</div>
         </div>
     );
