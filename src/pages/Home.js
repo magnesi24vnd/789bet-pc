@@ -11,7 +11,7 @@ function Home() {
                 <Navbar />
             </div>
             <img src="../../public/images/banner.png" alt="Banner" />
-            <div className="w-screen bg-[#000]"></div>
+            <div className="w-screen bg-[#000]">OKVIP</div>
         </div>
     );
 }
