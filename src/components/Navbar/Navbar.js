@@ -1,43 +1,43 @@
 function Navbar() {
     const listMenuItems = [
         {
-            icon: '/images/Vector.png',
+            icon: './images/Vector.png',
             name: 'thể thao',
         },
         {
-            icon: '/images/Vector-0.png',
+            icon: './images/Vector-0.png',
             name: 'casino',
         },
         {
-            icon: '/images/Vector-1.png',
+            icon: './images/Vector-1.png',
             name: 'trò chơi',
         },
         {
-            icon: '/images/Vector-2.png',
+            icon: './images/Vector-2.png',
             name: 'bắn cá',
         },
         {
-            icon: '/images/Vector-3.png',
+            icon: './images/Vector-3.png',
             name: 'game bài',
         },
         {
-            icon: '/images/Vector-4.png',
+            icon: './images/Vector-4.png',
             name: 'đá gà',
         },
         {
-            icon: '/images/Vector-5.png',
+            icon: './images/Vector-5.png',
             name: 'xổ số',
         },
         {
-            icon: '/images/Vector-6.png',
+            icon: './images/Vector-6.png',
             name: 'khuyến mãi',
         },
         {
-            icon: '/images/Vector-7.png',
+            icon: './images/Vector-7.png',
             name: 'tải app',
         },
         {
-            icon: '/images/Vector-8.png',
+            icon: './images/Vector-8.png',
             name: 'đại lý',
         },
     ];

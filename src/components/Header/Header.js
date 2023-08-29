@@ -5,14 +5,14 @@ function Header() {
                 <a className="flex" href="/">
                     <img
                         className="h-full py-[4px]"
-                        src="/images/header_logo.png"
+                        src="./images/header_logo.png"
                         alt="logo"
                     />
                 </a>
                 <a className="flex items-end" href="/">
                     <img
                         className="h-[90%] ml-[10px]"
-                        src="/images/header_slogan.png"
+                        src="./images/header_slogan.png"
                         alt="logo"
                     />
                 </a>
@@ -22,21 +22,21 @@ function Header() {
                     <a className="mr-[30px]" href="/">
                         <img
                             className="h-[45px]"
-                            src="/images/login.png"
+                            src="./images/login.png"
                             alt="Đăng nhập"
                         />
                     </a>
                     <a className="mr-[30px]" href="/">
                         <img
                             className="h-[53px]"
-                            src="/images/register.png"
+                            src="./images/register.png"
                             alt="Đăng ký"
                         />
                     </a>
                     <div>
                         <img
                             className="h-[45px] w-[65px]"
-                            src="/images/language.png"
+                            src="./images/language.png"
                             alt="Ngôn ngữ"
                         />
                     </div>
